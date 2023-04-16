@@ -1,0 +1,108 @@
+{
+  "banner": {
+    "url": "https://xhcchat.com/game/PP0199.png",
+    "alt": "banner"
+  },
+  "gameIcon": [
+    {
+      "alt": "",
+      "url": "https://xhcchat.com/game/PP0165.png",
+      "percentage": 95
+    },
+    {
+      "alt": "",
+      "url": "https://xhcchat.com/game/PP0166.png",
+      "percentage": 63
+    },
+    {
+      "alt": "",
+      "url": "https://xhcchat.com/game/PP0171.png",
+      "percentage": 72
+    },
+    {
+      "alt": "",
+      "url": "https://xhcchat.com/game/PP0176.png",
+      "percentage": 77
+    },
+    {
+      "alt": "",
+      "url": "https://xhcchat.com/game/PP0187.png",
+      "percentage": 86
+    },
+    {
+      "alt": "",
+      "url": "https://xhcchat.com/game/PP0199.png",
+      "percentage": 90
+    },
+    {
+      "alt": "",
+      "url": "https://xhcchat.com/game/PP0210.png",
+      "percentage": 75
+    },
+    {
+      "alt": "",
+      "url": "https://xhcchat.com/game/PP0218.png",
+      "percentage": 81
+    },
+    {
+      "alt": "",
+      "url": "https://xhcchat.com/game/PP0228.png",
+      "percentage": 86
+    },
+    {
+      "alt": "",
+      "url": "https://xhcchat.com/game/PP0238.png",
+      "percentage": "75"
+    },
+    {
+      "alt": "",
+      "url": "https://xhcchat.com/game/PP0240.png",
+      "percentage": 95
+    },
+    {
+      "alt": "",
+      "url": "https://xhcchat.com/game/PP0251.png",
+      "percentage": 93
+    },
+    {
+      "alt": "",
+      "url": "https://xhcchat.com/game/PP0292.png",
+      "percentage": 71
+    },
+    {
+      "alt": "",
+      "url": "https://xhcchat.com/game/PP0315.png",
+      "percentage": 79
+    },
+    {
+      "alt": "",
+      "url": "https://xhcchat.com/game/PP0349.png",
+      "percentage": 88
+    },
+    {
+      "alt": "",
+      "url": "https://xhcchat.com/game/PP0377.png",
+      "percentage": 76
+    },
+    {
+      "alt": "",
+      "url": "https://xhcchat.com/game/PP0407.png",
+      "percentage": 90
+    },
+    {
+      "alt": "",
+      "url": "https://xhcchat.com/game/PP0409.png",
+      "percentage": 82
+    },
+    {
+      "alt": "",
+      "url": "https://xhcchat.com/game/PP0410.png",
+      "percentage": 85
+    },
+    {
+      "alt": "",
+      "url": "https://xhcchat.com/game/PP0411.png",
+      "percentage": 92
+    }
+  ]
+}
